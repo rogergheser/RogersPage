@@ -1,0 +1,257 @@
+@keyframes gradient {
+    0% {
+        background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    2% {
+        background: linear-gradient(224deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(134deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(343deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    4% {
+        background: linear-gradient(231deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(141deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(350deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    6% {
+        background: linear-gradient(238deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(148deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(357deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    8% {
+        background: linear-gradient(245deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(155deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(4deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    10% {
+        background: linear-gradient(252deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(162deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(11deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    12% {
+        background: linear-gradient(259deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(169deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(18deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    14% {
+        background: linear-gradient(266deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(176deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(25deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    16% {
+        background: linear-gradient(273deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(183deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(32deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    18% {
+        background: linear-gradient(280deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(190deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(39deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    20% {
+        background: linear-gradient(287deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(197deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(46deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    22% {
+        background: linear-gradient(294deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(204deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(53deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    24% {
+        background: linear-gradient(301deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(211deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(60deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    26% {
+        background: linear-gradient(308deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(218deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(67deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    28% {
+        background: linear-gradient(315deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(225deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(74deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    30% {
+        background: linear-gradient(322deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(232deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(81deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    32% {
+        background: linear-gradient(329deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(239deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(88deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    34% {
+        background: linear-gradient(336deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(246deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(95deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    36% {
+        background: linear-gradient(343deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(253deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(102deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    38% {
+        background: linear-gradient(350deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(260deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(109deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    40% {
+        background: linear-gradient(357deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(267deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(116deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    42% {
+        background: linear-gradient(4deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(274deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(123deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    44% {
+        background: linear-gradient(11deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(281deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(130deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    46% {
+        background: linear-gradient(18deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(288deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(137deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    48% {
+        background: linear-gradient(25deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(295deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(144deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    50% {
+        background: linear-gradient(32deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(302deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(151deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    52% {
+        background: linear-gradient(39deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(309deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(158deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    54% {
+        background: linear-gradient(46deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(316deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(165deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    56% {
+        background: linear-gradient(53deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(323deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(172deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    58% {
+        background: linear-gradient(60deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(330deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(179deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    60% {
+        background: linear-gradient(67deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(337deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(186deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    62% {
+        background: linear-gradient(74deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(344deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(193deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    64% {
+        background: linear-gradient(81deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(351deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(200deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    66% {
+        background: linear-gradient(88deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(358deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(207deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    68% {
+        background: linear-gradient(95deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(5deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(214deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    70% {
+        background: linear-gradient(102deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(12deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(221deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    72% {
+        background: linear-gradient(109deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(19deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(228deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    74% {
+        background: linear-gradient(116deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(26deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(235deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    76% {
+        background: linear-gradient(123deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(33deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(242deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    78% {
+        background: linear-gradient(130deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(40deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(249deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    80% {
+        background: linear-gradient(137deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(47deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(256deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    82% {
+        background: linear-gradient(144deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(54deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(263deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    84% {
+        background: linear-gradient(151deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(61deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(270deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    86% {
+        background: linear-gradient(158deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(68deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(277deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    88% {
+        background: linear-gradient(165deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(75deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(284deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    90% {
+        background: linear-gradient(172deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(82deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(291deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    92% {
+        background: linear-gradient(179deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(89deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(298deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    94% {
+        background: linear-gradient(186deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(96deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(305deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    96% {
+        background: linear-gradient(193deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(103deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(312deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    98% {
+        background: linear-gradient(200deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(110deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(319deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }
+    100% {
+        background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%), 
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), 
+            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    }    
+}

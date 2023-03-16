@@ -1,0 +1,106 @@
+/* Path: static/css/style.css */
+@import url("./button-border-animation.css");
+
+:root{
+    --img-size: 200px;
+    --button-background-color: black;
+    --button-border-color: silver;
+    --text-color: silver;
+    --button-background-rainbow: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%), linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body > main > header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+}
+
+body > main > header > img {
+    height: var(--img-size);
+    width: var(--img-size);
+}
+
+body > main > footer > nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.link-button-border {
+    border-radius: 0.2cm;
+    z-index: 1;
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+                linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+                linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+
+.link-button {
+    margin: 2px;
+    z-index: 2;
+    background-color: var(--button-background-color);
+    background: black;
+    border: none;
+    border-radius: 0.15cm;
+    color: var(--text-color);
+    font-family: "Times New Roman", Times, serif;
+    padding: 10px 10px 10px 10px;
+    display: inline-block;
+    text-decoration: none;
+    transition: transform 0.3s linear;
+}
+
+.link-button-border {
+    background: var(--button-background-rainbow);
+    animation: gradient 16s infinite linear;
+    animation-duration: 2s;
+}
+
+.link-button-border:hover {
+    transition-duration: 0.8s;
+    transition-timing-function: ease-in-out;
+    transform: scale(1.5);
+}
+
+.link-button > a:link {
+    text-decoration: none;
+}
+.link-button > a:visited {
+    background-color: black;
+    border: 5px solid silver;
+    border-top: 10px solid silver;
+    border-bottom: 10px solid silver;
+    color: silver;
+    font-family: "Times New Roman", Times, serif;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+}
+
+/* h1 {
+    background-color: black;
+    border: 5px solid silver;
+    border-top: 10px solid silver;
+    border-bottom: 10px solid silver;
+    color: silver;
+    font-family: "Times New Roman", Times, serif;
+    padding: 10px 10px 10px 10px;
+}
+
+body {
+    color: violet;
+} */
+
+

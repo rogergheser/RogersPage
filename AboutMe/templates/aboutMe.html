@@ -8,21 +8,41 @@
 </head>
 <body>
     <main>
+        <header>
+            <h1>Amir Gheser</h1>
+        </header>
         <div class="background">
                 <div class="blur">
                     
                 </div>
-        </div>
-        <header>
-            <h1>Amir Gheser</h1>
-            <img src="{% static 'images/me.jpeg' %}" height="300" width="300" alt="My Photo" id="myPhoto">    
-        </header>
-        <section>
-            <h2>Who am I?</h2>
-            <p>
-                I am a 21 year old student from Italy. I am currently studying CS at the University of Trento.
-            </p>
-        </section>
+        </div> <!-- background -->
+        <div id="aboutMe">
+            <div id="intro">
+                <div class="img-border">
+                    <img src="{% static 'images/me.jpeg' %}" alt="My Photo" id="myPhoto">    
+                </div>
+                <div id="brief">
+                    <p>
+                        <b>I'm a 21 year old student from Italy, currently studying CS at the University of Trento.</b>
+                    </p>
+                </div>
+            </div> <!-- intro -->
+            <div id="extensive">
+                <p>
+                    I'm a chess player, a programmer and a gamer.
+                </p>
+                <p>
+                    I was born in Verona, Italy, and I've been living there for 21 years. If you're wondering my name is Persian as my mother is from Iran and my father is Italian.
+                </p>
+                <p>
+                    I decided to study CS because I'm fascinated by AI. As a kid I've often dwelled upon machines 
+                    that can think and interact with humans, and I've always been interested in the idea of creating 
+                    something that can think and act on its own. So I decided to enroll in the University of Trento and begin 
+                    my journey.
+                </p>
+
+            </div>
+        </div> <!-- aboutMe -->
         <footer>
             <nav>
                 <div class="link-button-border">
